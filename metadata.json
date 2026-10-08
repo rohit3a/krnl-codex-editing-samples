@@ -1,0 +1,16 @@
+{
+  "created": "2026-10-08",
+  "creator": "Codex for Rohit / KRNL Studio",
+  "purpose": "New original editing demonstration, not a past client commission",
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "seconds": 18,
+  "audio": "None; deliberately silent",
+  "assets": "Original vector geometry and fictional study-planning text",
+  "font": "Installed DejaVu Sans; font files are not redistributed",
+  "technique": "Pillow illustrations, hard cuts at 6/12 seconds, animated captions/progress, FFmpeg H.264",
+  "personal_or_client_material": false
+}
